@@ -1,2 +1,1 @@
-
-http://148.70.72.212:82
+http://api.yhcvpn.cc/
